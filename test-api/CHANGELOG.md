@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/nahsilabs/ci-test-2/compare/test-v0.0.2...test-api-v0.0.3) (2026-02-19)
+
+
+### Miscellaneous Chores
+
+* **test-api:** Synchronize test versions
+
 ## [0.0.2](https://github.com/nahsilabs/ci-test-2/compare/test-api-v0.0.1...test-api-v0.0.2) (2026-02-19)
 
 
